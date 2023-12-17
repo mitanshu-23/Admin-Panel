@@ -7,7 +7,7 @@ function Navbar() {
         <div className='navwrapper'>
             <div className='topLeft'>
                 <span className='logo'>
-                    NETFLIX
+                    ADMIN
                 </span>
             </div>
             <div className='topRight'>
