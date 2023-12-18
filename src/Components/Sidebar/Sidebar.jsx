@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import './sidebar.css'
+import './sidebar.scss'
 import { AccountBalanceWallet, Analytics, Assignment, Chat, Feedback, Inventory, LineStyle, Mail, ManageAccounts, People, Timeline } from '@mui/icons-material'
 import { Link, useLocation } from 'react-router-dom'
 function Sidebar() {

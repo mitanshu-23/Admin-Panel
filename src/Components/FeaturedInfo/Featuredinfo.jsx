@@ -1,5 +1,5 @@
 import React from 'react'
-import './featuredInfo.css'
+import './featuredInfo.scss'
 import { North, South } from '@mui/icons-material'
 
 

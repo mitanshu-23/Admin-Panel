@@ -1,5 +1,5 @@
 import React from 'react'
-import './charts.css'
+import './charts.scss'
 import { LineChart, Line, XAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 const Charts = ({title, data, dataKey, grid}) => {

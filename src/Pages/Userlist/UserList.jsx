@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './userList.css'
+import './userList.scss'
 import { DataGrid } from '@mui/x-data-grid';
 import { Delete, Edit } from '@mui/icons-material';
 

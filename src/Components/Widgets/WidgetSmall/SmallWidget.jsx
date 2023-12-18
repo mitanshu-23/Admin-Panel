@@ -1,5 +1,5 @@
 import React from 'react'
-import'./smallWidget.css'
+import'./smallWidget.scss'
 import { Visibility } from '@mui/icons-material'
 
 const SmallWidget = () => {

@@ -1,5 +1,5 @@
 import React from 'react'
-import './user.css'
+import './user.scss'
 import { CalendarMonth, Call, Email, FileUpload, PermIdentity, Place } from '@mui/icons-material'
 import { Navigate, useNavigate } from 'react-router-dom'
 const User = () => {

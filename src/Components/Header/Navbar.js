@@ -1,5 +1,5 @@
 import React from 'react'
-import './navbar.css'
+import './navbar.scss'
 import {Notifications, NotificationsActive, Settings, Translate} from '@mui/icons-material'
 function Navbar() {
   return (

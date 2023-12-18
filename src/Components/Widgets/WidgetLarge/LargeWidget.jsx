@@ -1,5 +1,5 @@
 import React from 'react'
-import'./largeWidget.css'
+import'./largeWidget.scss'
 
 const LargeWidget = () => {
 

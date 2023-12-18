@@ -1,5 +1,5 @@
 import React from 'react'
-import './product.css'
+import './product.scss'
 import { CalendarMonth, Call, Email, FileUpload, PermIdentity, Place, Publish } from '@mui/icons-material'
 import { Navigate, useNavigate } from 'react-router-dom'
 import Charts from '../../Components/Charts/Charts'

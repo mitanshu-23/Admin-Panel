@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import'./productList.css'
+import'./productList.scss'
 import { DataGrid } from '@mui/x-data-grid';
 import { Delete, Edit } from '@mui/icons-material';
 import {productRows as rows} from '../../DummyData';
